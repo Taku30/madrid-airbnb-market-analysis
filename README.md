@@ -150,5 +150,5 @@ Potential extensions of this project include:
 
 **Taku Takahashi**
 
-- GitHub: *(Add your GitHub profile link)*
-- LinkedIn: *(Add your LinkedIn profile link)*
+- GitHub: *(https://github.com/Taku30)*
+- LinkedIn: *(https://www.linkedin.com/in/taku-takahashi/)*
